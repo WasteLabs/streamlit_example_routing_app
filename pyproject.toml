@@ -32,6 +32,7 @@ streamlit-plotly-events = "^0.0.6"
 streamlit-aggrid = "^0.3.3"
 pyvroom = "^0.0.14"
 routingpy = "^1.1.0"
+vroom = "^1.0.2"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
