@@ -5187,20 +5187,6 @@ docs = ["proselint (>=0.13)", "sphinx (>=5.3)", "sphinx-argparse (>=0.3.2)", "sp
 testing = ["coverage (>=6.2)", "coverage-enable-subprocess (>=1)", "flaky (>=3.7)", "packaging (>=21.3)", "pytest (>=7.0.1)", "pytest-env (>=0.6.2)", "pytest-freezegun (>=0.4.2)", "pytest-mock (>=3.6.1)", "pytest-randomly (>=3.10.3)", "pytest-timeout (>=2.1)"]
 
 [[package]]
-name = "vroom"
-version = "1.0.2"
-description = "License Plate Parser"
-category = "main"
-optional = false
-python-versions = "*"
-files = [
-    {file = "vroom-1.0.2.tar.gz", hash = "sha256:87ca82da7de2da5a1b5701911bda429f89183e5635dde699d140f46c8b47df4b"},
-]
-
-[package.dependencies]
-pyyaml = "*"
-
-[[package]]
 name = "watchdog"
 version = "2.2.1"
 description = "Filesystem events monitoring"
@@ -5505,4 +5491,4 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.11"
-content-hash = "36c8ef26fdaee9faf2c14e3e7868fbc571bf0fa255a36b62ea66efa3ab75adfa"
+content-hash = "8378f5510e99540048c16a9449b31537a42dc105cbe982b03de44d070fc43cce"
